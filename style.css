@@ -1,0 +1,25 @@
+/* Add your css styles here */
+body {
+    text-align: center;
+    font-family: 'Tahoma';
+    color: black;
+}
+
+button {
+    background-color: #333333;
+    border-style: hidden;
+    color: white;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #1e1e1e;
+}
+
+ul {
+    list-style-position: inside; /* Center bullets */
+}
+
+.red-item{
+  color: red;
+}
